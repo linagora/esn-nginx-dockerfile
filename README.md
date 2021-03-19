@@ -1,3 +1,5 @@
+![Archived](https://img.shields.io/badge/Current_Status-archived-blue?style=flat)
+
 # Nginx container for OpenPaaS ESN
 
 [![Build Status](https://travis-ci.org/linagora/esn-nginx-dockerfile.svg?branch=master)](https://travis-ci.org/linagora/esn-nginx-dockerfile)
